@@ -1,6 +1,6 @@
 {
   "name": "graphql-hooks-test-g",
-  "version": "3.7.0",
+  "version": "3.7.1",
   "description": "Graphql Hooks",
   "main": "lib/graphql-hooks.js",
   "module": "es/graphql-hooks.js",
@@ -52,5 +52,6 @@
   "bugs": {
     "url": "https://github.com/nearform/graphql-hooks/issues"
   },
-  "homepage": "https://github.com/nearform/graphql-hooks#readme"
+  "homepage": "https://github.com/nearform/graphql-hooks#readme",
+  "gitHead": "0d3549aceba5584dd0b29af07760a15e238242e5"
 }
