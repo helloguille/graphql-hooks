@@ -1,6 +1,6 @@
 {
-  "name": "graphql-hooks-test-g",
-  "version": "3.7.1",
+  "name": "graphql-hooks-with-get-support",
+  "version": "3.8.0",
   "description": "Graphql Hooks",
   "main": "lib/graphql-hooks.js",
   "module": "es/graphql-hooks.js",
